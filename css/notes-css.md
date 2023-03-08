@@ -4,4 +4,5 @@
 
 ### Reihenfolge im CSS
 
-- universal selector > tag selector > class selector > id selector > inline css
+- universal selector < tag selector < class selector < id selector < inline css
+  - überschreiben jeweils das kleinere, inline CSS ist am 'stärksten'

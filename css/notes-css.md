@@ -2,8 +2,6 @@
 
 ## 07/03/2023
 
-- - ist ein universal selector, der auf jedes Element angewendet wird
-
 ### Reihenfolge im CSS
 
-- > tag selector > class selector > id selector > inline css
+- universal selector > tag selector > class selector > id selector > inline css

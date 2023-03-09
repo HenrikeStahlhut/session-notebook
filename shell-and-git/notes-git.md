@@ -28,3 +28,6 @@
 - git add . - alles in Ordner stagen
 - git log - commits anschauen
 - git commit -m'_commit message_' - Dateien die Status tracked haben werden commited
+- git checkout _Hash vom Commit_ - zum jeweiligen Commit zurück gehen
+- git log--online - kurze Beschreibung von Commits anzeigen lassen
+- git restore _Dateiname_ - Datei wird auf Zustand vom letzten Commit zurückgesetzt

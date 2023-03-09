@@ -18,3 +18,13 @@
 - rm-rf - ALLES auf der Festplatte löschen
 - mv - move bzw. Datei neu benennen
 - cat + Dateinamen.datei - gibt Inhalt der Datei aus
+
+### git Befehle
+
+- git init - erstell ein repository aus Ordner -> Ordner initialisieren
+- rm-rf .git - respository löschen -> Ordner wird normaler Ordner
+- git status - gibt Status
+- git add _Datei_ - Datei wird gestaged, also von untracked zu tracked
+- git add . - alles in Ordner stagen
+- git log - commits anschauen
+- git commit -m'_commit message_' - Dateien die Status tracked haben werden commited

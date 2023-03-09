@@ -36,7 +36,7 @@
 - git switch -c _BranchName_ - neuen Branch erstellen
 - git switch _BranchName_ - auf Branch welchseln/gehen
 - git push -u origin _BranchName_ - erster push von neuem branch
-- git push _BranchName_ - normaler Push
+- git push - normaler Push
 - git push -d _BranchName_ - branch löschen
 
 ### local repo auf GitHub

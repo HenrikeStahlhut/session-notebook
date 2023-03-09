@@ -28,3 +28,26 @@
 - git add . - alles in Ordner stagen
 - git log - commits anschauen
 - git commit -m'_commit message_' - Dateien die Status tracked haben werden commited
+- git checkout _Hash vom Commit_ - zum jeweiligen Commit zurück gehen
+- git log--online - kurze Beschreibung von Commits anzeigen lassen
+- git restore _Dateiname_ - Datei wird auf Zustand vom letzten Commit zurückgesetzt
+- git clone _repo link_ - dupliziert Repository
+- git remote -v - Zeigt aktuelle remote Verbindung an
+- git switch -c _BranchName_ - neuen Branch erstellen
+- git switch _BranchName_ - auf Branch welchseln/gehen
+- git push -u origin _BranchName_ - erster push von neuem branch
+- git push - normaler Push
+- git push -d _BranchName_ - branch löschen
+
+### local repo auf GitHub
+
+- repository auf GitHub erstellen
+- git remote add origin git@github.com:GitHubUsername/repository-name.git
+- git branch -M main
+- git push -u origin main
+
+### Datei bearbeitet - was dann?
+
+- git add . oder git add _Dateiname_
+- git commit -m'_commit message_'
+- git push _BranchName_

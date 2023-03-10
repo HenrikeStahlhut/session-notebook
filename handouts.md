@@ -26,6 +26,6 @@ https://github.com/neuefische/hh-web-23-2/blob/main/sessions/shell-basics/shell-
 
 https://github.com/neuefische/hh-web-23-2/blob/main/sessions/git-cli-and-remote/git-cli-and-remote.md
 
-## Git Branches & PR
+### Git Branches & PR
 
 https://github.com/neuefische/hh-web-23-2/blob/main/sessions/git-branches-and-prs/git-branches-and-prs.md

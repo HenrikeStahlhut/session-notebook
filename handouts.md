@@ -29,3 +29,7 @@ https://github.com/neuefische/hh-web-23-2/blob/main/sessions/git-cli-and-remote/
 ### Git Branches & PR
 
 https://github.com/neuefische/hh-web-23-2/blob/main/sessions/git-branches-and-prs/git-branches-and-prs.md
+
+### CSS Flexbox
+
+https://github.com/neuefische/hh-web-23-2/blob/main/sessions/css-flexbox/css-flexbox.md
